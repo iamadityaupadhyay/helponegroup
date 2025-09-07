@@ -328,7 +328,7 @@ export class GdmLiveAudio extends LitElement {
               viewBox="0 0 100 100"
               width="32px"
               height="32px"
-              fill="#c80000"
+              fill="#4a8d3bff"
               xmlns="http://www.w3.org/2000/svg">
               <circle cx="50" cy="50" r="50" />
             </svg>
@@ -341,7 +341,7 @@ export class GdmLiveAudio extends LitElement {
               viewBox="0 0 100 100"
               width="32px"
               height="32px"
-              fill="#000000"
+              fill="#c41010ff"
               xmlns="http://www.w3.org/2000/svg">
               <rect x="0" y="0" width="100" height="100" rx="15" />
             </svg>
